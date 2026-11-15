@@ -30,3 +30,8 @@
 .product-image,.story-visual,.story-scene{background-image:linear-gradient(0deg,#10181522,transparent),url("https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1100&q=80")!important;background-size:cover!important;background-position:center!important}
 .story-scene,.story-visual{background-image:url("https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1100&q=80")!important;background-size:cover!important;background-position:center!important}.story-scene .scene-chair,.story-scene .scene-frame,.story-scene .scene-circle{display:none!important}
 .logo-mark:empty,.brand-symbol:empty,.quote-divider:empty,.art-symbol:empty,.tick-star:empty,.spark:empty,.sep:empty{display:none!important}
+
+/* Visual QA: remove remaining simulated artwork and use editorial photography */
+.scene-frame,.scene-circle,.scene-chair,.visual-orbit,.vase,.small-vase{display:none!important}
+.product-art{background-image:linear-gradient(0deg,#111a1522,transparent),url("https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1100&q=82")!important;background-size:cover!important;background-position:center!important;background-repeat:no-repeat!important}
+.story-scene{background-image:linear-gradient(0deg,#111a1522,transparent),url("https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1100&q=82")!important;background-size:cover!important;background-position:center!important;background-repeat:no-repeat!important}
