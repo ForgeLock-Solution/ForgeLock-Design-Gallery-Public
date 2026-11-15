@@ -1,0 +1,74 @@
+[
+  {
+    "id": "FL-001",
+    "name": "Sabor",
+    "sector": "Restaurantes y cafeterías",
+    "description": "Carta visual, galería gastronómica y contacto.",
+    "features": [
+      "Menú visual",
+      "Galería de platos",
+      "Contacto"
+    ],
+    "extras": "Reservas y pedidos integrados"
+  },
+  {
+    "id": "FL-002",
+    "name": "Aura",
+    "sector": "Belleza y bienestar",
+    "description": "Presenta tratamientos y servicios con estilo editorial.",
+    "features": [
+      "Servicios",
+      "Galería",
+      "Agenda simulada"
+    ],
+    "extras": "Reservas reales y recordatorios"
+  },
+  {
+    "id": "FL-003",
+    "name": "Habitat",
+    "sector": "Inmobiliarias",
+    "description": "Explora propiedades y consulta detalles fácilmente.",
+    "features": [
+      "Fichas de inmuebles",
+      "Filtros locales",
+      "Contacto"
+    ],
+    "extras": "CRM inmobiliario e integraciones"
+  },
+  {
+    "id": "FL-004",
+    "name": "Nova Store",
+    "sector": "Comercio digital",
+    "description": "Una experiencia de catálogo y compra demostrativa.",
+    "features": [
+      "Productos",
+      "Búsqueda local",
+      "Carrito simulado"
+    ],
+    "extras": "Pagos, inventario y administración"
+  },
+  {
+    "id": "FL-005",
+    "name": "Axis",
+    "sector": "Empresas y profesionales",
+    "description": "Presentación de servicios y propuesta de valor.",
+    "features": [
+      "Servicios",
+      "Equipo ficticio",
+      "Formulario simulado"
+    ],
+    "extras": "CRM y automatizaciones"
+  },
+  {
+    "id": "FL-006",
+    "name": "Impulso",
+    "sector": "Fitness y entrenamiento",
+    "description": "Programas, horarios y contacto para entrenadores.",
+    "features": [
+      "Planes de ejemplo",
+      "Horarios",
+      "Contacto"
+    ],
+    "extras": "Inscripciones y pagos"
+  }
+]
