@@ -5,6 +5,7 @@ import { businesses, photo } from '../assets/admin-core/businesses.js';
 
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const escapeHtml=value=>String(value).replace(/[&<>"']/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
+const quoteUrl=(name,sector)=>`https://wa.me/573043402589?text=${encodeURIComponent(`Hola, ForgeLock. Quiero cotizar una página para ${sector}, basada en el diseño ${name}.`)}`;
 for(const [id,config] of Object.entries(businesses)){
   const dir=path.join(root,'disenos',id);
   fs.mkdirSync(dir,{recursive:true});
@@ -18,6 +19,8 @@ for(const [id,config] of Object.entries(businesses)){
     .replace('id="hero-copy"></p>',`id="hero-copy">${escapeHtml(config.intro)}</p>`)
     .replace('id="hero-photo" alt="" fetchpriority="high"',`id="hero-photo" src="${escapeHtml(photo(config.hero,1400))}" alt="${escapeHtml(config.heroAlt)}" fetchpriority="high"`)
     .replace('id="section-title"></h2>',`id="section-title">${escapeHtml(config.sectionTitle)}</h2>`)
+    .replace('data-quote-cta href="#contacto"',`data-quote-cta href="${escapeHtml(quoteUrl(config.name,config.sector))}"`)
+    .replace('>Cotizar diseño</a>',`>Cotizar ${escapeHtml(config.sector.toLowerCase())}</a>`)
     .replace('id="section-copy"></p>',`id="section-copy">${escapeHtml(config.sectionCopy)}</p>`)
     .replace('id="story-photo" src="https://images.unsplash.com/photo-1555507036-ab1f4038808a?auto=format&amp;fit=crop&amp;w=1100&amp;q=82" alt="Detalle de un espacio de trabajo preparado para atender a sus clientes"',`id="story-photo" src="${escapeHtml(photo(config.storyPhoto||config.photos[1],1100))}" alt="${escapeHtml(config.storyAlt||config.sector+': vista de '+config.name)}"`)
     .replace('id="footer-business">Diseño conceptual',`id="footer-business">${escapeHtml(config.name)} · Marca conceptual`);
