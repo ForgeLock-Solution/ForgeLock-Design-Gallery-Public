@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="theme-color" content="#18241e">
+  <meta name="description" content="Sabor: concepto web gastronómico de ForgeLock. Demostración ficticia, sin reservas reales.">
+  <title>Sabor | Cocina con historia · Demo FL-001</title>
+  <link rel="stylesheet" href="./styles/main.css">
+  <script type="module" src="./scripts/main.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#contenido">Ir al contenido</a>
+  <div class="demo-notice" role="note"><span class="notice-dot" aria-hidden="true"></span> Concepto de diseño FL-001 · Restaurante ficticio · No se gestionan reservas reales</div>
+  <header class="header" id="inicio">
+    <div class="shell header-inner">
+      <a class="logo" href="#inicio" aria-label="Sabor, ir al inicio"><span class="logo-mark" aria-hidden="true">✳</span> sabor<span class="logo-period">.</span></a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="nav-principal" aria-label="Abrir menú"><span></span><span></span><span></span></button>
+      <nav class="nav" id="nav-principal" aria-label="Navegación principal">
+        <a href="#historia">Nuestra esencia</a><a href="#carta">La carta</a><a href="#experiencia">Experiencia</a>
+        <a class="nav-action" href="#reservas">Reservar mesa <span aria-hidden="true">↗</span></a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="contenido">
+    <section class="hero shell" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="line" aria-hidden="true"></span> COCINA DE AUTOR · DEMOSTRACIÓN</p>
+        <h1 id="hero-title">El arte de <em>sentarse</em> a la mesa.</h1>
+        <p class="hero-subtitle">Un encuentro entre ingredientes de temporada, conversaciones que duran y sabores que se quedan en la memoria.</p>
+        <div class="hero-actions"><a class="btn btn-gold" href="#carta">Explorar la carta <span aria-hidden="true">↗</span></a><a class="text-link" href="#historia">Descubre nuestra historia <span aria-hidden="true">→</span></a></div>
+        <div class="hero-foot"><span>01 / 03</span><span class="hero-foot-line" aria-hidden="true"></span><span>Una experiencia para saborear</span></div>
+      </div>
+      <div class="hero-art" role="img" aria-label="Ilustración conceptual de un plato gourmet con ingredientes verdes y salsa sobre una mesa oscura">
+        <span class="art-topline">SABOR · EST. CONCEPT</span>
+        <div class="visual-plate"><div class="plate-rim"><div class="plate-center"><span class="food food-1"></span><span class="food food-2"></span><span class="food food-3"></span><span class="food food-4"></span><span class="food food-5"></span><span class="food food-6"></span><span class="sauce"></span></div></div></div>
+        <div class="art-caption"><span>Inspirado en lo esencial</span><span class="art-symbol">✳</span></div>
+      </div>
+      <div class="hero-vertical" aria-hidden="true">COCINA · CONEXIÓN · CALMA</div>
+    </section>
+
+    <section class="story section-padding" id="historia" aria-labelledby="story-title"><div class="shell story-grid">
+      <div class="story-visual"><span class="story-art art-a"></span><span class="story-art art-b"></span><span class="story-art art-c"></span><span class="story-stamp">S<br>A<br>B<br>O<br>R</span></div>
+      <div class="story-copy"><p class="eyebrow dark-eyebrow">01 / NUESTRA ESENCIA</p><h2 id="story-title">Los mejores momentos <em>se comparten.</em></h2><p>Creemos en la belleza de lo simple: productos frescos, recetas honestas y una mesa que siempre tiene espacio para alguien más.</p><p>Este restaurante y su historia son ficticios. La composición muestra cómo una marca gastronómica podría contar su propuesta con personalidad.</p><a class="text-link dark-link" href="#experiencia">Conoce la experiencia <span aria-hidden="true">→</span></a></div>
+    </div></section>
+
+    <section class="menu-section section-padding" id="carta" aria-labelledby="menu-title"><div class="shell">
+      <div class="section-top"><div><p class="eyebrow">02 / SABORES PARA DESCUBRIR</p><h2 id="menu-title">Una carta para <em>explorar.</em></h2></div><p>Platos conceptuales de muestra. Los nombres y descripciones son ficticios.</p></div>
+      <div class="filter-bar" role="group" aria-label="Filtrar platos de demostración">
+        <button class="filter active" data-filter="todos" aria-pressed="true">Toda la carta</button>
+        <button class="filter" data-filter="entradas" aria-pressed="false">Para comenzar</button>
+        <button class="filter" data-filter="principales" aria-pressed="false">Platos fuertes</button>
+        <button class="filter" data-filter="postres" aria-pressed="false">Dulce final</button>
+      </div>
+      <div class="menu-grid" id="menu-grid">
+        <article class="dish" data-category="entradas"><div class="dish-visual dish-one"><span class="dish-illustration" aria-hidden="true">✻</span><span class="dish-label">01 / ENTRADA</span></div><div class="dish-info"><span>PARA COMENZAR</span><h3>Huerta de temporada</h3><p>Vegetales de estación, hierbas frescas y un toque cítrico.</p></div></article>
+        <article class="dish" data-category="principales"><div class="dish-visual dish-two"><span class="dish-illustration" aria-hidden="true">◉</span><span class="dish-label">02 / PRINCIPAL</span></div><div class="dish-info"><span>PLATO FUERTE</span><h3>Origen a fuego lento</h3><p>Una interpretación cálida de ingredientes de nuestra tierra.</p></div></article>
+        <article class="dish" data-category="postres"><div class="dish-visual dish-three"><span class="dish-illustration" aria-hidden="true">✦</span><span class="dish-label">03 / POSTRE</span></div><div class="dish-info"><span>DULCE FINAL</span><h3>Último antojo</h3><p>Texturas delicadas, fruta y el equilibrio justo de dulzor.</p></div></article>
+      </div>
+      <p class="filter-feedback" id="filter-feedback" role="status" aria-live="polite">3 propuestas de demostración</p>
+    </div></section>
+
+    <section class="quote-section" id="experiencia" aria-labelledby="quote-title"><div class="shell quote-layout"><p class="eyebrow">03 / LA EXPERIENCIA</p><h2 id="quote-title">Hay historias que empiezan con <em>una buena mesa.</em></h2><p>Un lugar imaginario, una invitación real a diseñar experiencias digitales que se sienten únicas.</p><span class="quote-divider" aria-hidden="true">✳</span></div></section>
+
+    <section class="reservation section-padding" id="reservas" aria-labelledby="reservation-title"><div class="shell reservation-layout">
+      <div class="reservation-intro"><p class="eyebrow dark-eyebrow">04 / TU MOMENTO</p><h2 id="reservation-title">La mesa está <em>lista.</em></h2><p>Prueba cómo podría funcionar un formulario de reserva. Es solo una simulación: no guarda ni envía tus datos.</p><div class="reservation-note"><span aria-hidden="true">◎</span><span>Modo demostración: sin reservas, pagos ni confirmaciones reales.</span></div></div>
+      <form class="reservation-form" id="reservation-form" novalidate>
+        <div class="field-row"><label>Fecha de ejemplo <input type="date" name="date" required></label><label>Horario <select name="time" required><option value="">Elige una hora</option><option>12:00</option><option>13:30</option><option>19:00</option><option>20:30</option></select></label></div>
+        <label>Personas <select name="people" required><option value="">Número de personas</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option></select></label>
+        <button class="btn btn-dark" type="submit">Simular reserva <span aria-hidden="true">↗</span></button>
+        <p class="form-result" id="form-result" role="status" aria-live="polite"></p>
+      </form>
+    </div></section>
+
+    <aside class="forge-banner" aria-label="Información de ForgeLock"><div class="shell forge-inner"><div><span class="forge-eyebrow">DISEÑO CONCEPTUAL · FORGELOCK</span><h2>¿Te imaginas una web así para tu negocio?</h2><p>Esta página es un ejemplo ficticio. ForgeLock puede crear una experiencia adaptada a tu marca.</p></div><a class="btn btn-gold" href="https://wa.me/573123007530?text=Hola%2C%20vi%20el%20dise%C3%B1o%20FL-001%20Sabor%20de%20ForgeLock%20y%20quiero%20cotizar%20una%20p%C3%A1gina%20web%20con%20este%20estilo." target="_blank" rel="noopener noreferrer">Cotizar diseño FL-001 <span aria-hidden="true">↗</span></a></div></aside>
+  </main>
+  <footer class="footer"><div class="shell footer-content"><a class="logo" href="#inicio">sabor<span class="logo-period">.</span></a><p>Restaurante ficticio · Demostración FL-001</p><p>Concepto creado para ForgeLock · Sin atención gastronómica real</p></div></footer>
+</body>
+</html>
