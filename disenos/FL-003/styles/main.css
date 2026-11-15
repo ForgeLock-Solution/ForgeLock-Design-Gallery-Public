@@ -40,3 +40,12 @@ dialog{border:0;width:min(560px,calc(100% - 28px));max-height:min(90vh,800px);pa
 /* Realistic sector photography for ForgeLock public gallery */
 .hero-visual,.property-image{background-image:linear-gradient(180deg,rgba(10,17,13,.05),rgba(10,17,13,.18)),url("https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1400&q=82")!important;background-position:center!important;background-size:cover!important;background-repeat:no-repeat!important}
 .hero-visual .building,.hero-visual .tree,.property-image .scene-building,.property-image .scene-window{display:none!important}
+
+/* Real photography: remove decorative star and apply sector imagery */
+.property-image.scene-one{background-image:linear-gradient(0deg,#10181533,transparent),url("https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=960&q=80")!important;background-size:cover!important;background-position:center!important}
+.property-image.scene-two{background-image:linear-gradient(0deg,#10181533,transparent),url("https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=960&q=80")!important;background-size:cover!important;background-position:center!important}
+.property-image.scene-three{background-image:linear-gradient(0deg,#10181533,transparent),url("https://images.unsplash.com/photo-1600585152915-d208bec867a1?auto=format&fit=crop&w=960&q=80")!important;background-size:cover!important;background-position:center!important}
+.property-image.scene-four{background-image:linear-gradient(0deg,#10181533,transparent),url("https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?auto=format&fit=crop&w=960&q=80")!important;background-size:cover!important;background-position:center!important}
+.property-image.scene-five{background-image:linear-gradient(0deg,#10181533,transparent),url("https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=960&q=80")!important;background-size:cover!important;background-position:center!important}
+.property-image.scene-six{background-image:linear-gradient(0deg,#10181533,transparent),url("https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=960&q=80")!important;background-size:cover!important;background-position:center!important}
+.logo-mark:empty,.brand-symbol:empty,.quote-divider:empty,.art-symbol:empty,.tick-star:empty,.spark:empty,.sep:empty{display:none!important}

@@ -24,3 +24,7 @@
 /* Realistic sector photography for ForgeLock public gallery */
 .hero-visual{background-image:linear-gradient(180deg,rgba(10,17,13,.05),rgba(10,17,13,.18)),url("https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1400&q=82")!important;background-position:center!important;background-size:cover!important;background-repeat:no-repeat!important}
 .hero-visual .hero-grid-pattern,.hero-visual .hero-ring,.hero-visual .athlete{display:none!important}
+
+/* Real photography: remove decorative star and apply sector imagery */
+.hero-visual,.program-image{background-image:linear-gradient(0deg,#10181522,transparent),url("https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=1100&q=80")!important;background-size:cover!important;background-position:center!important}
+.logo-mark:empty,.brand-symbol:empty,.quote-divider:empty,.art-symbol:empty,.tick-star:empty,.spark:empty,.sep:empty{display:none!important}
