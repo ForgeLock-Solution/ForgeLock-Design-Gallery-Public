@@ -2,73 +2,187 @@
   {
     "id": "FL-001",
     "name": "Sabor",
-    "sector": "Restaurantes y cafeterías",
-    "description": "Carta visual, galería gastronómica y contacto.",
+    "sector": "Restaurante",
+    "description": "Carta visual y contacto para una experiencia gastronómica.",
     "features": [
       "Menú visual",
-      "Galería de platos",
+      "Galería",
       "Contacto"
     ],
-    "extras": "Reservas y pedidos integrados"
+    "extras": "La administración de carta puede desarrollarse como adicional.",
+    "adminAvailable": false,
+    "photo": "photo-1517248135467-4c7edcad34c4",
+    "pageType": "Landing Page"
   },
   {
     "id": "FL-002",
     "name": "Aura",
     "sector": "Belleza y bienestar",
-    "description": "Presenta tratamientos y servicios con estilo editorial.",
+    "description": "Servicios y agenda demostrativa con una estética serena.",
     "features": [
       "Servicios",
       "Galería",
-      "Agenda simulada"
+      "Agenda de muestra"
     ],
-    "extras": "Reservas reales y recordatorios"
+    "extras": "La administración de servicios y agenda se puede crear como adicional.",
+    "adminAvailable": false,
+    "photo": "photo-1560066984-138dadb4c035",
+    "pageType": "Landing Page"
   },
   {
     "id": "FL-003",
     "name": "Habitat",
-    "sector": "Inmobiliarias",
-    "description": "Explora propiedades y consulta detalles fácilmente.",
+    "sector": "Inmobiliaria",
+    "description": "Propiedades conceptuales con filtros y consultas de muestra.",
     "features": [
-      "Fichas de inmuebles",
-      "Filtros locales",
+      "Fichas de propiedades",
+      "Filtros",
       "Contacto"
     ],
-    "extras": "CRM inmobiliario e integraciones"
+    "extras": "La administración de propiedades puede cotizarse por separado.",
+    "adminAvailable": false,
+    "photo": "photo-1600585154340-be6161a56a0c",
+    "pageType": "Catálogo web"
   },
   {
     "id": "FL-004",
     "name": "Nova Store",
-    "sector": "Comercio digital",
-    "description": "Una experiencia de catálogo y compra demostrativa.",
+    "sector": "Comercio",
+    "description": "Catálogo y recorrido de compra sin transacciones reales.",
     "features": [
       "Productos",
-      "Búsqueda local",
-      "Carrito simulado"
+      "Búsqueda",
+      "Carrito de muestra"
     ],
-    "extras": "Pagos, inventario y administración"
+    "extras": "La administración de catálogo e inventario se puede crear como adicional.",
+    "adminAvailable": false,
+    "photo": "photo-1441986300917-64674bd600d8",
+    "pageType": "Tienda digital"
   },
   {
     "id": "FL-005",
     "name": "Axis",
-    "sector": "Empresas y profesionales",
-    "description": "Presentación de servicios y propuesta de valor.",
+    "sector": "Corporativo",
+    "description": "Servicios, presentación institucional y formulario de muestra.",
     "features": [
       "Servicios",
-      "Equipo ficticio",
-      "Formulario simulado"
+      "Equipo conceptual",
+      "Formulario local"
     ],
-    "extras": "CRM y automatizaciones"
+    "extras": "La administración de contenido se puede crear como adicional.",
+    "adminAvailable": false,
+    "photo": "photo-1497366754035-f200968a6e72",
+    "pageType": "Web corporativa"
   },
   {
     "id": "FL-006",
     "name": "Impulso",
-    "sector": "Fitness y entrenamiento",
-    "description": "Programas, horarios y contacto para entrenadores.",
+    "sector": "Fitness",
+    "description": "Planes, horarios y contenidos para entrenamiento.",
     "features": [
-      "Planes de ejemplo",
+      "Planes",
       "Horarios",
       "Contacto"
     ],
-    "extras": "Inscripciones y pagos"
+    "extras": "La administración de horarios y planes se puede crear como adicional.",
+    "adminAvailable": false,
+    "photo": "photo-1534438327276-14e5300c3a48",
+    "pageType": "Landing Page"
+  },
+  {
+    "id": "FL-007",
+    "name": "Dulce Origen",
+    "sector": "Panadería y pastelería",
+    "description": "Vitrina de pan artesanal, pastelería y promociones.",
+    "features": [
+      "Productos",
+      "Categorías",
+      "Precios y disponibilidad",
+      "Promociones"
+    ],
+    "extras": "La página y la administración demostrativa están disponibles para explorar.",
+    "adminAvailable": true,
+    "photo": "photo-1509440159596-0249088772ff",
+    "pageType": "Página de negocio"
+  },
+  {
+    "id": "FL-008",
+    "name": "Huella",
+    "sector": "Servicios para mascotas",
+    "description": "Servicios, tarifas, profesionales y horarios.",
+    "features": [
+      "Servicios y tarifas",
+      "Profesionales",
+      "Horarios",
+      "Solicitudes simuladas"
+    ],
+    "extras": "La administración demostrativa permite probar cambios locales.",
+    "adminAvailable": true,
+    "photo": "photo-1548199973-03cce0bbc87b",
+    "pageType": "Página de servicios"
+  },
+  {
+    "id": "FL-009",
+    "name": "MotorLab",
+    "sector": "Taller y estética automotriz",
+    "description": "Servicios automotrices, promociones y horarios.",
+    "features": [
+      "Servicios",
+      "Tarifas",
+      "Promociones",
+      "Horarios"
+    ],
+    "extras": "La administración demostrativa permite probar cambios locales.",
+    "adminAvailable": true,
+    "photo": "photo-1486262715619-67b85e0b08d3",
+    "pageType": "Página de servicios"
+  },
+  {
+    "id": "FL-010",
+    "name": "Distrito Barber",
+    "sector": "Barbería",
+    "description": "Servicios, barberos, tarifas y horarios.",
+    "features": [
+      "Servicios",
+      "Barberos",
+      "Tarifas",
+      "Reservas de muestra"
+    ],
+    "extras": "La administración demostrativa permite probar cambios locales.",
+    "adminAvailable": true,
+    "photo": "photo-1503951914875-452162b0f3f1",
+    "pageType": "Página de servicios"
+  },
+  {
+    "id": "FL-011",
+    "name": "Atelier",
+    "sector": "Moda y accesorios",
+    "description": "Colección visual con productos, variantes y canales configurables.",
+    "features": [
+      "Productos y variantes",
+      "Categorías",
+      "Disponibilidad",
+      "Carrusel administrable de marketplaces"
+    ],
+    "extras": "La página y la administración demostrativa están disponibles para explorar.",
+    "adminAvailable": true,
+    "photo": "photo-1483985988355-763728e1935b",
+    "pageType": "Catálogo de moda"
+  },
+  {
+    "id": "FL-012",
+    "name": "Aula Nova",
+    "sector": "Academia y formación",
+    "description": "Cursos, instructores, horarios y cupos conceptuales.",
+    "features": [
+      "Cursos",
+      "Instructores",
+      "Horarios",
+      "Cupos de muestra"
+    ],
+    "extras": "La administración demostrativa permite probar cambios locales.",
+    "adminAvailable": true,
+    "photo": "photo-1503676260728-1c00da094a0b",
+    "pageType": "Página de academia"
   }
 ]
