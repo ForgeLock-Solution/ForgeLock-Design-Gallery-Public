@@ -53,3 +53,7 @@ section[id]{scroll-margin-top:25px}.container{width:min(1160px,calc(100% - 72px)
 .hero-panel,.hero-stage{background-image:linear-gradient(180deg,rgba(12,20,17,.06),rgba(12,20,17,.17)),url("https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&w=1400&q=82")!important;background-size:cover!important;background-position:center!important;background-repeat:no-repeat!important}
 
 .hero-panel svg,.hero-panel .bowl,.hero-panel .leaf,.hero-panel .botanical{display:none!important}
+
+/* Realistic sector photography for ForgeLock public gallery */
+.hero-panel,.hero-stage{background-image:linear-gradient(180deg,rgba(10,17,13,.05),rgba(10,17,13,.18)),url("https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&w=1400&q=82")!important;background-position:center!important;background-size:cover!important;background-repeat:no-repeat!important}
+.hero-panel svg,.hero-panel .bowl,.hero-panel .leaf,.hero-panel .botanical{display:none!important}
