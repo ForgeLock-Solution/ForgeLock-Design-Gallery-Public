@@ -53,3 +53,7 @@ dialog{border:0;width:min(560px,calc(100% - 28px));max-height:min(90vh,800px);pa
 /* Visual QA: remove remaining simulated artwork and use editorial photography */
 .ph-arch,.ph-sun,.hero-visual .building,.hero-visual .tree{display:none!important}
 .philosophy-art{background-image:linear-gradient(0deg,#111a1522,transparent),url("https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1100&q=82")!important;background-size:cover!important;background-position:center!important;background-repeat:no-repeat!important}
+
+/* Photo QA: keep photography only on the intended visual element */
+.hero-visual::before,.philosophy-art::before,.philosophy-art::after{content:none!important;display:none!important}
+.property-image .scene-building,.property-image .scene-window,.ph-arch,.ph-sun{display:none!important}

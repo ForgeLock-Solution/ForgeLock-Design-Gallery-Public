@@ -52,3 +52,7 @@ h1,h2,h3,p{margin-top:0}h1,h2,h3{font-family:Georgia,'Times New Roman',serif;fon
 .project-art .architecture,.hero-graphic .architecture,.halo{display:none!important}
 .project-art-one{background-image:linear-gradient(0deg,#111a1522,transparent),url("https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1100&q=82")!important;background-size:cover!important;background-position:center!important;background-repeat:no-repeat!important}
 .project-art-two{background-image:linear-gradient(0deg,#111a1522,transparent),url("https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=1100&q=82")!important;background-size:cover!important;background-position:center!important;background-repeat:no-repeat!important}
+
+/* Photo QA: no drawn objects on top of office photography */
+.hero-graphic::before,.hero-graphic::after,.project-art::before,.project-art::after{content:none!important;display:none!important}
+.project-art .project-circle,.project-art .project-block,.hero-graphic .halo,.hero-graphic .architecture,.hero-graphic .graphic-grid{display:none!important}

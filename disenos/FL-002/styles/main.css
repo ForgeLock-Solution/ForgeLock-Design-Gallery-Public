@@ -71,3 +71,9 @@ section[id]{scroll-margin-top:25px}.container{width:min(1160px,calc(100% - 72px)
 .service-art.art-body{background-image:linear-gradient(0deg,#111a1522,transparent),url("https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&w=1100&q=82")!important;background-size:cover!important;background-position:center!important;background-repeat:no-repeat!important}
 .service-art.art-ritual{background-image:linear-gradient(0deg,#111a1522,transparent),url("https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=1100&q=82")!important;background-size:cover!important;background-position:center!important;background-repeat:no-repeat!important}
 .experience-visual{background-image:linear-gradient(0deg,#111a1522,transparent),url("https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1100&q=82")!important;background-size:cover!important;background-position:center!important;background-repeat:no-repeat!important}
+
+/* Photo QA: hero-stage is the wrapper, hero-panel alone owns the photograph */
+.hero-stage{background-image:none!important;background-color:transparent!important;background:none!important}
+.hero-panel{background-image:url("https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&w=1400&q=82")!important;background-position:center!important;background-size:cover!important;background-repeat:no-repeat!important}
+.hero-panel::before,.hero-panel::after,.intro-art::before,.intro-art::after{content:none!important;display:none!important}
+.ceramic-object,.ceramic-mouth,.ceramic-body,.ceramic-shadow,.orb,.intro-arch,.intro-sun,.intro-stem,.intro-seal,.service-art .art-disc,.service-art .art-drawing,.service-art .art-bottom,.experience-visual .room-arch,.experience-visual .room-plant{display:none!important}
