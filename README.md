@@ -12,3 +12,6 @@ Las tarjetas externas **no son demostraciones propias** ni conceden derechos par
 
 ### Portadas
 Las doce tarjetas de referencias externas muestran capturas dinámicas de sus respectivas páginas de origen mediante el servicio de vistas previas de WordPress.com (`s0.wp.com/mshots/v1/`). Las imágenes se solicitan al abrir el catálogo, sin copiar ni almacenar capturas de terceros en GitHub. La generación puede tardar, fallar o cambiar si el proveedor modifica la página; se mantiene un fondo visual de respaldo. Las doce tarjetas propias conservan sus fotografías sectoriales existentes. Las capturas son únicamente ilustrativas y no acreditan autoría a ForgeLock.
+
+## Variaciones por sector
+Se agregaron 30 conceptos visuales (tres por cada uno de diez sectores) en `data/estilos-sector.json`, con filtros en `assets/estilos-sector.js`. Sus imágenes son fotografías ilustrativas de Unsplash y **no** capturas de páginas ni diseños propios terminados. El enlace «Explorar ejemplos» dirige a búsquedas de plantillas externas en ThemeForest; no constituye una recomendación de una plantilla individual ni autorización de uso. Los 12 diseños propios y las 12 bibliotecas externas se mantienen sin cambios.

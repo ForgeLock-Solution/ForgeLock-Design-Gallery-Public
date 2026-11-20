@@ -1,0 +1,302 @@
+[
+  {
+    "id": "FS-001",
+    "sector": "Restaurantes",
+    "style": "Clásico profesional",
+    "description": "Una presentación clara, confianza y contacto rápido.",
+    "photo": "photo-1517248135467-4c7edcad34c4",
+    "url": "https://themeforest.net/search/restaurant%20website",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-002",
+    "sector": "Restaurantes",
+    "style": "Minimalista premium",
+    "description": "Tipografía elegante, fotografías amplias y diseño sobrio.",
+    "photo": "photo-1552566626-52f8b828add9",
+    "url": "https://themeforest.net/search/restaurant%20minimal",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-003",
+    "sector": "Restaurantes",
+    "style": "Moderno dinámico",
+    "description": "Secciones llamativas, promociones y llamadas a la acción.",
+    "photo": "photo-1414235077428-338989a2e8c0",
+    "url": "https://themeforest.net/search/restaurant%20modern",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-004",
+    "sector": "Barberías y belleza",
+    "style": "Clásico profesional",
+    "description": "Una presentación clara, confianza y contacto rápido.",
+    "photo": "photo-1503951914875-452162b0f3f1",
+    "url": "https://themeforest.net/search/barbershop%20website",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-005",
+    "sector": "Barberías y belleza",
+    "style": "Minimalista premium",
+    "description": "Tipografía elegante, fotografías amplias y diseño sobrio.",
+    "photo": "photo-1560066984-138dadb4c035",
+    "url": "https://themeforest.net/search/barbershop%20minimal",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-006",
+    "sector": "Barberías y belleza",
+    "style": "Moderno dinámico",
+    "description": "Secciones llamativas, promociones y llamadas a la acción.",
+    "photo": "photo-1521590832167-7bcbfaa6381f",
+    "url": "https://themeforest.net/search/barbershop%20modern",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-007",
+    "sector": "Carnicerías y alimentos",
+    "style": "Clásico profesional",
+    "description": "Una presentación clara, confianza y contacto rápido.",
+    "photo": "photo-1607623814075-e51df1bdc82f",
+    "url": "https://themeforest.net/search/butcher%20shop%20website",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-008",
+    "sector": "Carnicerías y alimentos",
+    "style": "Minimalista premium",
+    "description": "Tipografía elegante, fotografías amplias y diseño sobrio.",
+    "photo": "photo-1546833999-b9f581a1996d",
+    "url": "https://themeforest.net/search/butcher%20shop%20minimal",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-009",
+    "sector": "Carnicerías y alimentos",
+    "style": "Moderno dinámico",
+    "description": "Secciones llamativas, promociones y llamadas a la acción.",
+    "photo": "photo-1509440159596-0249088772ff",
+    "url": "https://themeforest.net/search/butcher%20shop%20modern",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-010",
+    "sector": "Tiendas y moda",
+    "style": "Clásico profesional",
+    "description": "Una presentación clara, confianza y contacto rápido.",
+    "photo": "photo-1441986300917-64674bd600d8",
+    "url": "https://themeforest.net/search/fashion%20ecommerce%20website",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-011",
+    "sector": "Tiendas y moda",
+    "style": "Minimalista premium",
+    "description": "Tipografía elegante, fotografías amplias y diseño sobrio.",
+    "photo": "photo-1483985988355-763728e1935b",
+    "url": "https://themeforest.net/search/fashion%20ecommerce%20minimal",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-012",
+    "sector": "Tiendas y moda",
+    "style": "Moderno dinámico",
+    "description": "Secciones llamativas, promociones y llamadas a la acción.",
+    "photo": "photo-1490481651871-ab68de25d43d",
+    "url": "https://themeforest.net/search/fashion%20ecommerce%20modern",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-013",
+    "sector": "Inmobiliarias",
+    "style": "Clásico profesional",
+    "description": "Una presentación clara, confianza y contacto rápido.",
+    "photo": "photo-1600585154340-be6161a56a0c",
+    "url": "https://themeforest.net/search/real%20estate%20website",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-014",
+    "sector": "Inmobiliarias",
+    "style": "Minimalista premium",
+    "description": "Tipografía elegante, fotografías amplias y diseño sobrio.",
+    "photo": "photo-1600607687920-4e2a09cf159d",
+    "url": "https://themeforest.net/search/real%20estate%20minimal",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-015",
+    "sector": "Inmobiliarias",
+    "style": "Moderno dinámico",
+    "description": "Secciones llamativas, promociones y llamadas a la acción.",
+    "photo": "photo-1600566753190-17f0baa2a6c3",
+    "url": "https://themeforest.net/search/real%20estate%20modern",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-016",
+    "sector": "Corporativas",
+    "style": "Clásico profesional",
+    "description": "Una presentación clara, confianza y contacto rápido.",
+    "photo": "photo-1497366754035-f200968a6e72",
+    "url": "https://themeforest.net/search/corporate%20business%20website",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-017",
+    "sector": "Corporativas",
+    "style": "Minimalista premium",
+    "description": "Tipografía elegante, fotografías amplias y diseño sobrio.",
+    "photo": "photo-1486406146926-c627a92ad1ab",
+    "url": "https://themeforest.net/search/corporate%20business%20minimal",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-018",
+    "sector": "Corporativas",
+    "style": "Moderno dinámico",
+    "description": "Secciones llamativas, promociones y llamadas a la acción.",
+    "photo": "photo-1521737711867-e3b97375f902",
+    "url": "https://themeforest.net/search/corporate%20business%20modern",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-019",
+    "sector": "Mascotas",
+    "style": "Clásico profesional",
+    "description": "Una presentación clara, confianza y contacto rápido.",
+    "photo": "photo-1548199973-03cce0bbc87b",
+    "url": "https://themeforest.net/search/pet%20services%20website",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-020",
+    "sector": "Mascotas",
+    "style": "Minimalista premium",
+    "description": "Tipografía elegante, fotografías amplias y diseño sobrio.",
+    "photo": "photo-1517849845537-4d257902454a",
+    "url": "https://themeforest.net/search/pet%20services%20minimal",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-021",
+    "sector": "Mascotas",
+    "style": "Moderno dinámico",
+    "description": "Secciones llamativas, promociones y llamadas a la acción.",
+    "photo": "photo-1583511655857-d19b40a7a54e",
+    "url": "https://themeforest.net/search/pet%20services%20modern",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-022",
+    "sector": "Fitness",
+    "style": "Clásico profesional",
+    "description": "Una presentación clara, confianza y contacto rápido.",
+    "photo": "photo-1534438327276-14e5300c3a48",
+    "url": "https://themeforest.net/search/fitness%20gym%20website",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-023",
+    "sector": "Fitness",
+    "style": "Minimalista premium",
+    "description": "Tipografía elegante, fotografías amplias y diseño sobrio.",
+    "photo": "photo-1517836357463-d25dfeac3438",
+    "url": "https://themeforest.net/search/fitness%20gym%20minimal",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-024",
+    "sector": "Fitness",
+    "style": "Moderno dinámico",
+    "description": "Secciones llamativas, promociones y llamadas a la acción.",
+    "photo": "photo-1571019613454-1cb2f99b2d8b",
+    "url": "https://themeforest.net/search/fitness%20gym%20modern",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-025",
+    "sector": "Automotriz",
+    "style": "Clásico profesional",
+    "description": "Una presentación clara, confianza y contacto rápido.",
+    "photo": "photo-1486262715619-67b85e0b08d3",
+    "url": "https://themeforest.net/search/car%20service%20website",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-026",
+    "sector": "Automotriz",
+    "style": "Minimalista premium",
+    "description": "Tipografía elegante, fotografías amplias y diseño sobrio.",
+    "photo": "photo-1492144534655-ae79c964c9d7",
+    "url": "https://themeforest.net/search/car%20service%20minimal",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-027",
+    "sector": "Automotriz",
+    "style": "Moderno dinámico",
+    "description": "Secciones llamativas, promociones y llamadas a la acción.",
+    "photo": "photo-1503376780353-7e6692767b70",
+    "url": "https://themeforest.net/search/car%20service%20modern",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-028",
+    "sector": "Academias",
+    "style": "Clásico profesional",
+    "description": "Una presentación clara, confianza y contacto rápido.",
+    "photo": "photo-1503676260728-1c00da094a0b",
+    "url": "https://themeforest.net/search/education%20courses%20website",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-029",
+    "sector": "Academias",
+    "style": "Minimalista premium",
+    "description": "Tipografía elegante, fotografías amplias y diseño sobrio.",
+    "photo": "photo-1523050854058-8df90110c9f1",
+    "url": "https://themeforest.net/search/education%20courses%20minimal",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  },
+  {
+    "id": "FS-030",
+    "sector": "Academias",
+    "style": "Moderno dinámico",
+    "description": "Secciones llamativas, promociones y llamadas a la acción.",
+    "photo": "photo-1434030216411-0b793f4b4173",
+    "url": "https://themeforest.net/search/education%20courses%20modern",
+    "source": "Búsqueda de plantillas externas",
+    "type": "Referencia de estilo"
+  }
+]
