@@ -1,0 +1,122 @@
+[
+  {
+    "id": "EXT-001",
+    "name": "Land-book",
+    "title": "Galería de landing pages",
+    "sector": "Landing pages",
+    "url": "https://land-book.com/",
+    "description": "Referencias visuales para páginas de captación y negocios.",
+    "kind": "Inspiración",
+    "style": "layout"
+  },
+  {
+    "id": "EXT-002",
+    "name": "One Page Love",
+    "title": "Páginas de una sola vista",
+    "sector": "Landing pages",
+    "url": "https://onepagelove.com/",
+    "description": "Referencias de sitios one-page y páginas de presentación.",
+    "kind": "Inspiración",
+    "style": "page"
+  },
+  {
+    "id": "EXT-003",
+    "name": "SiteInspire",
+    "title": "Sitios editoriales y corporativos",
+    "sector": "Corporativas",
+    "url": "https://www.siteinspire.com/",
+    "description": "Inspiración para servicios profesionales y marcas.",
+    "kind": "Inspiración",
+    "style": "corporate"
+  },
+  {
+    "id": "EXT-004",
+    "name": "Lapa Ninja",
+    "title": "Landing pages orientadas a conversión",
+    "sector": "Landing pages",
+    "url": "https://www.lapa.ninja/",
+    "description": "Ideas para estructura, llamados a la acción y contenido.",
+    "kind": "Inspiración",
+    "style": "layout"
+  },
+  {
+    "id": "EXT-005",
+    "name": "Awwwards",
+    "title": "Experiencias digitales creativas",
+    "sector": "Creativas",
+    "url": "https://www.awwwards.com/",
+    "description": "Diseños experimentales y experiencias visuales de alto impacto.",
+    "kind": "Inspiración",
+    "style": "creative"
+  },
+  {
+    "id": "EXT-006",
+    "name": "ThemeForest — HTML",
+    "title": "Plantillas comerciales HTML",
+    "sector": "Plantillas",
+    "url": "https://themeforest.net/category/site-templates",
+    "description": "Explora demostraciones; las licencias se verifican por producto.",
+    "kind": "Plantilla externa",
+    "style": "store"
+  },
+  {
+    "id": "EXT-007",
+    "name": "HTML5 UP",
+    "title": "Plantillas responsive",
+    "sector": "Plantillas",
+    "url": "https://html5up.net/",
+    "description": "Galería de plantillas con código, sujeta a sus condiciones de uso.",
+    "kind": "Plantilla externa",
+    "style": "code"
+  },
+  {
+    "id": "EXT-008",
+    "name": "HTML.design",
+    "title": "Plantillas para distintos sectores",
+    "sector": "Plantillas",
+    "url": "https://html.design/",
+    "description": "Diseños base para evaluar y personalizar según licencia.",
+    "kind": "Plantilla externa",
+    "style": "code"
+  },
+  {
+    "id": "EXT-009",
+    "name": "Webflow Templates",
+    "title": "Plantillas de sitios web",
+    "sector": "Plantillas",
+    "url": "https://webflow.com/templates",
+    "description": "Galería de diseños para empresas y comercios.",
+    "kind": "Plantilla externa",
+    "style": "store"
+  },
+  {
+    "id": "EXT-010",
+    "name": "Framer Templates",
+    "title": "Plantillas de experiencias modernas",
+    "sector": "Plantillas",
+    "url": "https://www.framer.com/marketplace/templates/",
+    "description": "Referencias de páginas con presentaciones actuales.",
+    "kind": "Plantilla externa",
+    "style": "creative"
+  },
+  {
+    "id": "EXT-011",
+    "name": "BootstrapMade",
+    "title": "Plantillas para negocios",
+    "sector": "Plantillas",
+    "url": "https://bootstrapmade.com/",
+    "description": "Plantillas y demostraciones para servicios y comercios.",
+    "kind": "Plantilla externa",
+    "style": "code"
+  },
+  {
+    "id": "EXT-012",
+    "name": "Colorlib Templates",
+    "title": "Colección de sitios web",
+    "sector": "Plantillas",
+    "url": "https://colorlib.com/wp/templates/",
+    "description": "Biblioteca de plantillas de múltiples sectores.",
+    "kind": "Plantilla externa",
+    "style": "store"
+  }
+]
